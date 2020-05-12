@@ -5,4 +5,10 @@ You can find the ppt in the link : https://microsofteur-my.sharepoint.com/:u:/g/
 Scripts:
 
 OCR / Read API
-TTS
+
+TTS API
+
+SST API
+
+Translate API
+
